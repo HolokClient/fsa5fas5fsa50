@@ -1,0 +1,440 @@
+{
+  "Features": {
+    "AntiBot": {
+      "state": true,
+      "Settings": {}
+    },
+    "BowAimBot": {
+      "state": true,
+      "Settings": {}
+    },
+    "Velocity": {
+      "state": true,
+      "keyIndex": 48,
+      "Settings": {}
+    },
+    "SuperKnockBack": {
+      "Settings": {}
+    },
+    "BeaconExploit": {
+      "Settings": {}
+    },
+    "ItemSwapFix": {
+      "state": true,
+      "Settings": {}
+    },
+    "PasswordHider": {
+      "state": true,
+      "Settings": {}
+    },
+    "PlayerLogger": {
+      "Settings": {}
+    },
+    "GuiWalk": {
+      "state": true,
+      "Settings": {}
+    },
+    "NoClip": {
+      "keyIndex": 44,
+      "Settings": {}
+    },
+    "NoSlow": {
+      "state": true,
+      "Settings": {}
+    },
+    "Strafe": {
+      "Settings": {}
+    },
+    "NoPush": {
+      "state": true,
+      "Settings": {}
+    },
+    "NoWaterCollision": {
+      "state": true,
+      "Settings": {}
+    },
+    "AutoRespawn": {
+      "state": true,
+      "Settings": {}
+    },
+    "MiddleClickPearl": {
+      "state": true,
+      "Settings": {}
+    },
+    "XCarry": {
+      "Settings": {}
+    },
+    "NoRotationSet": {
+      "state": true,
+      "Settings": {}
+    },
+    "AntiLagMachine": {
+      "state": true,
+      "Settings": {}
+    },
+    "InventoryDroper": {
+      "Settings": {}
+    },
+    "ClickTP": {
+      "keyIndex": 41,
+      "Settings": {}
+    },
+    "CustomModel": {
+      "state": true,
+      "Settings": {}
+    },
+    "ExtraTab": {
+      "state": true,
+      "Settings": {}
+    },
+    "MiddleClickFriend": {
+      "state": true,
+      "Settings": {}
+    },
+    "Chams": {
+      "state": true,
+      "Settings": {}
+    },
+    "CameraClip": {
+      "state": true,
+      "Settings": {}
+    },
+    "FullBright": {
+      "state": true,
+      "Settings": {}
+    },
+    "Predict": {
+      "Settings": {}
+    },
+    "Watermark": {
+      "state": true,
+      "Settings": {}
+    },
+    "Hotbar": {
+      "state": true,
+      "Settings": {}
+    },
+    "StaffAlert": {
+      "state": true,
+      "Settings": {}
+    },
+    "MotionGraph": {
+      "state": true,
+      "Settings": {}
+    },
+    "ItemESP": {
+      "state": true,
+      "Settings": {}
+    },
+    "ClientSound": {
+      "state": true,
+      "Settings": {}
+    },
+    "FogColor": {
+      "state": true,
+      "Settings": {
+        "Color": -64716
+      }
+    },
+    "NoRender": {
+      "state": true,
+      "Settings": {
+        "Modes": "Fire,Block,"
+      }
+    },
+    "WorldColor": {
+      "state": true,
+      "Settings": {
+        "Color": -15077377
+      }
+    },
+    "WorldTime": {
+      "state": true,
+      "Settings": {
+        "Time": 16300.0
+      }
+    },
+    "TargetHud": {
+      "state": true,
+      "Settings": {
+        "On Target": false
+      }
+    },
+    "Freecam": {
+      "keyIndex": 50,
+      "Settings": {
+        "No Back Teleport": true
+      }
+    },
+    "GAppleTimer": {
+      "state": true,
+      "Settings": {
+        "Cooldown": 55.0
+      }
+    },
+    "BotSpammer": {
+      "Settings": {
+        "Delay": 5000.0
+      }
+    },
+    "ClickGui": {
+      "keyIndex": 54,
+      "Settings": {
+        "Click Gui Color": -51177
+      }
+    },
+    "EnchantmentColor": {
+      "state": true,
+      "Settings": {
+        "Color": -55224
+      }
+    },
+    "Jesus": {
+      "keyIndex": 24,
+      "Settings": {
+        "Mode": "Matrix Solid"
+      }
+    },
+    "Speed": {
+      "keyIndex": 45,
+      "Settings": {
+        "Mode": "Sunrise"
+      }
+    },
+    "Spider": {
+      "keyIndex": 22,
+      "Settings": {
+        "Mode": "Sunrise"
+      }
+    },
+    "Sprint": {
+      "state": true,
+      "Settings": {
+        "All - Direction": false
+      }
+    },
+    "HighJump": {
+      "Settings": {
+        "Height": 8.8
+      }
+    },
+    "LongJump": {
+      "Settings": {
+        "Mode": "Vanilla"
+      }
+    },
+    "WebLeave": {
+      "Settings": {
+        "Motion": 1.0
+      }
+    },
+    "ItemScroller": {
+      "state": true,
+      "Settings": {
+        "Delay": 10.0
+      }
+    },
+    "NoDelay": {
+      "state": true,
+      "Settings": {
+        "NoDelay": ""
+      }
+    },
+    "NoFall": {
+      "Settings": {
+        "Mode": "Vanilla"
+      }
+    },
+    "Baritone": {
+      "state": true,
+      "Settings": {
+        "AntiRG": true
+      }
+    },
+    "AutoArmor": {
+      "Settings": {
+        "openInventory": true,
+        "Delay": 1.0
+      }
+    },
+    "AutoLeave": {
+      "Settings": {
+        "Mode": "/hub",
+        "Radius": 30.0
+      }
+    },
+    "Optimizer": {
+      "state": true,
+      "Settings": {
+        "Light": true,
+        "Entities": true
+      }
+    },
+    "SwingAnimation": {
+      "state": true,
+      "Settings": {
+        "Mode": "Bonk",
+        "Hand Speed": 6.0
+      }
+    },
+    "TriangleESP": {
+      "state": true,
+      "Settings": {
+        "Mode": "Static",
+        "Color": -50646
+      }
+    },
+    "JumpCircle": {
+      "state": true,
+      "Settings": {
+        "Mode": "Celestial",
+        "Speed": 1.0,
+        "Color": -46277
+      }
+    },
+    "Trails": {
+      "state": true,
+      "Settings": {
+        "Mode": "Static",
+        "Color": -54485,
+        "Time": 500.0
+      }
+    },
+    "XrayBypass": {
+      "Settings": {
+        "Radius": 20.0,
+        "Height": 20.0,
+        "Speed": 7.0
+      }
+    },
+    "Timer": {
+      "keyIndex": 34,
+      "Settings": {
+        "Timer": 2.0,
+        "Smart": true,
+        "Color": -41908
+      }
+    },
+    "NoCom": {
+      "Settings": {
+        "Boost": 7.0,
+        "Distance": 16.0,
+        "Render checked block": true
+      }
+    },
+    "ChinaHat": {
+      "state": true,
+      "Settings": {
+        "Outline": true,
+        "Width": 1.0,
+        "Mode": "Static",
+        "Color": -50116
+      }
+    },
+    "ESP": {
+      "state": true,
+      "Settings": {
+        "Box": true,
+        "Name": true,
+        "Item": true,
+        "Health": true,
+        "HealthBar": true
+      }
+    },
+    "ViewModel": {
+      "state": true,
+      "Settings": {
+        "Right X": 130.0,
+        "Right Y": -2.0,
+        "Right Z": -180.0,
+        "Left X": -86.0,
+        "Left Y": -42.0,
+        "Left Z": -180.0
+      }
+    },
+    "NameTag": {
+      "state": true,
+      "Settings": {
+        "NameTags Size": 1.0,
+        "NameTags Background": true,
+        "Background Mode": "Shader",
+        "Background Opacity": 150.0,
+        "Show Armor": true,
+        "Show Potions": true
+      }
+    },
+    "AutoPotion": {
+      "state": true,
+      "Settings": {
+        "onlyGround": true,
+        "Strenght": true,
+        "Speed": true,
+        "Fire Resistance": true,
+        "Hotbar Only": true,
+        "Delay": 100.0
+      }
+    },
+    "Flight": {
+      "state": true,
+      "keyIndex": 34,
+      "Settings": {
+        "Mode": "Really World",
+        "Height": 1.0,
+        "Speed": 1.0
+      }
+    },
+    "AutoTotem": {
+      "state": true,
+      "keyIndex": 39,
+      "Settings": {
+        "Health": 4.5,
+        "Check Crystal": true,
+        "CrystalDistance": 8.0,
+        "Check Falling": true,
+        "FallDistance": 8.0,
+        "Check Obsidian": false,
+        "ObsidianDistance": 8.0,
+        "Check TNT": false,
+        "TnTDistance": 8.0,
+        "+ Absorption": true
+      }
+    },
+    "KillAura": {
+      "state": true,
+      "keyIndex": 19,
+      "Settings": {
+        "Range": 3.6,
+        "Pre Range": 1.0,
+        "Shield": "Shield Breaker,Better Shield,Shield Desync,",
+        "Cool Down": 1.0,
+        "Rotation": "Matrix",
+        "TPS Sync": false,
+        "Falling Criticals": true,
+        "Client Look": false,
+        "Ray Cast": false,
+        "Keep Sprint": true,
+        "Targets": "Player,"
+      }
+    },
+    "ArrayList": {
+      "state": true,
+      "Settings": {
+        "Hide Render": false,
+        "to Lower Case": true,
+        "Text Glow": true,
+        "Glow Radius": 15.0,
+        "Glow Alpha": 150.0,
+        "Shadow": true,
+        "Right Line": true,
+        "Right Line Glow": true,
+        "Right Line Radius": 15.0,
+        "Right Line Alpha": 150.0,
+        "Color Mode": "Fade",
+        "Font": "Tenacity",
+        "Color Speed": 5.0,
+        "Animation Speed": 50.0,
+        "Color": -58099
+      }
+    }
+  }
+}
