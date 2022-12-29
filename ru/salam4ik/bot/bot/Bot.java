@@ -1,12 +1,12 @@
 package ru.salam4ik.bot.bot;
 
+import UwU_.GameSense.helpers.animation.Counter;
 import io.netty.util.internal.ConcurrentSet;
 import ru.salam4ik.bot.bot.entity.BotController;
 import ru.salam4ik.bot.bot.entity.BotPlayer;
 import ru.salam4ik.bot.bot.network.BotNetwork;
 import ru.salam4ik.bot.bot.network.BotPlayClient;
 import ru.salam4ik.bot.bot.world.BotWorld;
-import UwU_.GameSense.helpers.animation.Counter;
 
 import java.util.Set;
 
@@ -15,6 +15,13 @@ public class Bot {
     private final BotNetwork netManager;
     private final BotPlayer bot;
     public static Set<Bot> bots;
+
+
+    public static final String KEY_ = "fFaf55ASF";;
+
+
+
+
     private final BotWorld world;
 
     public Counter c = new Counter();
@@ -33,6 +40,7 @@ public class Bot {
         this.bot = botPlayer;
         this.world = botWorld;
     }
+
 
     public long getTime() {
         return System.currentTimeMillis() - systemTime;
